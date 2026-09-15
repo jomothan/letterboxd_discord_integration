@@ -1,6 +1,7 @@
 # Letterboxd Discord Bot
 
 Log films to Letterboxd directly from Discord.
+Watch demo here: https://youtube.com/shorts/BY6QrauMUeM?feature=share
 
 ## Usage
 
